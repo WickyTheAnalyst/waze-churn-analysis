@@ -1,13 +1,13 @@
 # Waze App Churn Analysis 
 #### **Objective:** Predicting User Churn in a Ride-Sharing Service
-***[Detailed Project Implementation](https://nbviewer.org/github/WickyTheAnalyst/waze-churn-analysis/blob/main/waze-churn-analysis-stage5.ipynb)***
+
 
 
 
 *Prepared by Waqas Ahmad, Data Analyst*
 
 *Date: 14 August 2023*
-
+***[Detailed Project Implementation](https://nbviewer.org/github/WickyTheAnalyst/waze-churn-analysis/blob/main/waze-churn-analysis-stage5.ipynb)***
 ## Table of Contents
 
 1. **Executive Summary**
