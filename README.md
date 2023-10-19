@@ -8,8 +8,7 @@
 
 *Date: 14 August 2023*<br>
 ***[Detailed Project Implementation](https://nbviewer.org/github/WickyTheAnalyst/waze-churn-analysis/blob/main/waze-churn-analysis-stage5.ipynb)***
-### **Project Stack**
-Certainly! Below is a list of the common tools and technologies used in this project:
+
 
 
 
