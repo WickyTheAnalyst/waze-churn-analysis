@@ -8,6 +8,11 @@
 
 *Date: 14 August 2023*<br>
 ***[Detailed Project Implementation](https://nbviewer.org/github/WickyTheAnalyst/waze-churn-analysis/blob/main/waze-churn-analysis-stage5.ipynb)***
+### **Project Stack**
+Certainly! Below is a list of the common tools and technologies used in this project:
+
+
+
 ## Table of Contents
 
 1. **Executive Summary**
@@ -29,12 +34,33 @@
 ## 1. Executive Summary
 
 The objective of this project was to predict user churn in a ride-sharing service. The project was carried out by our data analyst team to leverage machine learning techniques for churn prediction. Key findings indicate that approximately 22% of users have churned. The best-performing model, XGBoost, achieved a recall of 18.14% on the test dataset. We recommend using the XGBoost model for proactive user retention strategies.
+## 2. **Project Stack**
 
-## 2. Introduction
+2.1 **Programming Languages**:
+   - Python: Used for data analysis, preprocessing, model building, and visualization.
+
+2.2 **Libraries and Frameworks**:
+   - Pandas: For data manipulation and analysis.
+   - NumPy: For numerical and array operations.
+   - Scikit-learn: For machine learning model building, evaluation, and preprocessing.
+   - XGBoost: An open-source machine learning framework for gradient boosting.
+   - Jupyter Notebook: For interactive data analysis and documentation.
+   - Matplotlib and Seaborn: For data visualization and plotting.
+   - Joblib: Used for model serialization.
+   - GridSearchCV: Part of Scikit-learn, used for hyperparameter tuning.
+
+2.3 **Version Control**:
+   - Git: For version control and collaboration.
+
+2.4 **Machine Learning Models**:
+   - Random Forest: A decision tree-based ensemble learning algorithm.
+   - XGBoost: A gradient boosting algorithm known for its efficiency and accuracy.
+
+## 3. Introduction
 
 In a highly competitive ride-sharing industry, predicting and mitigating user churn is of paramount importance. The purpose of this project is to harness machine learning to build a predictive model for user churn. This report provides a comprehensive overview of the project, from data collection to model evaluation and recommendations.
 
-## 3. Objective
+## 4. Objective
 
 The primary objective of this project is to develop a predictive model that accurately identifies users at risk of churning in a ride-sharing service. By achieving this, the company can take proactive measures to retain valuable users.
 
