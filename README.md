@@ -6,7 +6,7 @@
 
 *Prepared by Waqas Ahmad, Data Analyst*
 
-*Date: 14 August 2023*
+*Date: 14 August 2023*<br>
 ***[Detailed Project Implementation](https://nbviewer.org/github/WickyTheAnalyst/waze-churn-analysis/blob/main/waze-churn-analysis-stage5.ipynb)***
 ## Table of Contents
 
